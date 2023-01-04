@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CalvinGituma
-- 👀  Coder/software tester
+- 👀  QUALITY ASSURANCE ENGINEER/PROGRAMMER
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on improving my skills
 - 📫 How to reach me calvinmuchuku@gmail.com
