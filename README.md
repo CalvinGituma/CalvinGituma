@@ -20,6 +20,8 @@ I'm a Quality Assurance Engineer with experience in manual and automated testing
 - TestRail
 - Defect Tracking and Reporting
 - Agile/Scrum Methodologies
+- Perfomance Testing
+- Jmeter
 
 ### 🌱 Currently Learning
 - Advanced Playwright Automation
