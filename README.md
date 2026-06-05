@@ -9,6 +9,7 @@ I'm a Quality Assurance Engineer with experience in manual and automated testing
 - API Testing
 - Test Case Design and Execution
 - Continuous Learning in Software Quality Engineering
+- Application Performance testing Using Jmeter
 
 ### 🛠️ Skills
 - Manual Testing
@@ -27,11 +28,14 @@ I'm a Quality Assurance Engineer with experience in manual and automated testing
 - Advanced Playwright Automation
 - Java Design Patterns
 - CI/CD Integration for Test Automation
+- Advanced Application performance testing
 
 ### 👯 Open to Collaborate On
 - QA Automation Projects
 - Open Source Testing Initiatives
 - Software Quality Improvement Projects
+- Api Testing
+- Perfomance Testing
 
 ### 📫 Contact
 - Email: calvinmuchuku@gmail.com
